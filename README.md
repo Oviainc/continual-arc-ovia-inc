@@ -1,3 +1,7 @@
+> **Fork of [unifyai/continual-arc](https://github.com/unifyai/continual-arc)** — Continual-ARC, a continual-learning benchmark built on the three ARC-AGI editions (Apache-2.0, upstream credit: Daniel Lenton / unify).
+>
+> **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit says so.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/continual-arc-readme-banner-dark.png">
